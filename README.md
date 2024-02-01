@@ -7,3 +7,6 @@ The HTTP requests made in the script are made to the website https://epic7x.com/
 The script can be improved and I am still working on it to perfect it.
 
 The script is only responsible for collecting public information and all rights associated with it correspond to its legitimate owners.
+
+
+"pip install -r .\requirements.txt" to install all dependencies and libraries.
